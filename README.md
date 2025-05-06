@@ -1,2 +1,3 @@
 # capstone-project
-Meta FE Dev Capstone Proj
+
+Meta Front-end project Dev Capstone project 💪 🔥
